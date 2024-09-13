@@ -1,4 +1,4 @@
-module dirsearch
+module artemis
 
 go 1.22.5
 
